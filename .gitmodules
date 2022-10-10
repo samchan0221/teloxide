@@ -1,0 +1,3 @@
+[submodule "teloxide-core"]
+	path = teloxide-core
+	url = https://github.com/samchan0221/teloxide-core
